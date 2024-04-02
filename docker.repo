@@ -1,0 +1,5 @@
+repositories:
+  ./Docker:
+    type: git
+    url: git@github.com:frank-Regal/Docker.git
+    version: PALI

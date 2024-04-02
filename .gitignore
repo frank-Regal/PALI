@@ -163,3 +163,6 @@ zeta/utils/__pycache__
 zeta/utils/__pycache__
 zeta/__pycache__
 zeta/utils/module/__pycache__
+
+*.jpg
+Docker
